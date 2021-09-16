@@ -1,0 +1,3 @@
+[submodule "insy/oracledb/docker-images"]
+	path = insy/oracledb/docker-images
+	url = git@github.com:oracle/docker-images.git
